@@ -1,0 +1,14 @@
+{
+  "name": "proyectos",
+  "version": "1.0.0",
+  "description": "probando test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
